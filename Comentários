@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Esse é meu primeiro site">
+    <meta name="keywords" content="Meu primeiro site" >
+    <meta nome="author" content="Vitor Augusto">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Comentário</h1>
+
+    <!--<p>Isso é um paragráfo</p>-->
+    <p>Isso é um paragráfo</p>
+
+    <!--Isso é um caomentário-->
+
+    <!--<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti ipsum saepe dolorum et repudiandae voluptatem iure cumque perspiciatis dolorem laborum quae, nisi officia amet debitis delectus officiis iusto aut non.</p>-->
+    <p>Temporibus doloribus pariatur doloremque quisquam. Nesciunt et numquam debitis pariatur accusamus eligendi repellendus assumenda accusantium sequi veritatis fugiat nam provident odit autem explicabo beatae, possimus similique dicta perferendis dignissimos quo.</p>
+    <p>Assumenda, perspiciatis! Neque et dolorum fugit accusantium, voluptate eius consequuntur nesciunt perferendis dolorem iure a accusamus distinctio esse alias necessitatibus in! Odit modi fugit eum asperiores distinctio ratione, fuga rerum.</p>
+</body>
+</html>
