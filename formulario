@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Esse é meu primeiro site">
+    <meta name="keywords" content="Meu primeiro site" >
+    <meta nome="author" content="Vitor Augusto">
+    <title>Document</title>
+</head>
+<body>
+     <h1>Formulário aqui</h1>
+
+     <form>
+        <label  for = "Nome:">Nome </label>
+        <input  id = "Nome:" type="text"placeholder="Digite seu nome aqui"required>
+        <br>
+
+        <label > Sobrenome: </label>
+        <input  id = "Sobrenome:" type="text"placeholder="Digite seu sobrenome aqui"required>
+        <br>
+
+        <label > Email: </label>
+        <input  id = "Email:" type="email"placeholder="Digite seu email aqui">
+        <br>
+        
+        <label > Senha: </label>
+        <input  id = "Senha:" type="password"placeholder="Digite sua senha aqui">
+        <br><br>
+
+
+        <h2>Animal de estimação</h2>
+        <input type="radio" id="dog" name="animal" value="cachorro">
+        <label for="dog">Cachorro</label>
+        <br>
+
+        <input type="radio" id="cat" name="animal" value="gato">
+        <label for="cat">Gato</label>
+        <br>
+
+
+        <h2>Oque vc tem em casa?</h2>
+        <select name="cores"> 
+        <input id="item1" type="checkbox" name="item1" value="tv">
+        <label for="item1">tv</label>
+        <br>
+        <input id="item2" type="checkbox" name="item2" value="som">
+        <label for="item1">som</label>
+        <br>
+
+        <h2>Escolha uma cor: </h2>
+        <select >
+            <option value="Selecione uma cor">Selecione uma cor</option>
+            <option value="vermelho">vermelho</option>
+            <option value="azul">azul</option>
+        </select>
+        <br>
+
+        <h2>Digite sua mensagem</h2>
+        <textarea name="mensagem" >
+            
+        </textarea>
+        <br>
+
+
+       <button>Enviar</button>
+
+        
+     </form>
+</body>
+</html>
