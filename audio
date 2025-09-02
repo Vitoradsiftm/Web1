@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio</title>
+</head>
+<body>
+
+    <h1>Página de Áudio</h1>
+
+
+    <h2>Musica de Link</h2>
+    <audio controls controlsList="nodownload">
+        <source src="audio/Cell (Dragon Ball Z) - D.N.A ｜ M4rkim.mp3" type="audio/mpeg">
+    </audio>
+
+    <h2>Áudio Local</h2>
+    <audio controls controlsList="nodownload">
+        <source src="audio/Cell (Dragon Ball Z) - D.N.A ｜ M4rkim.mp3" type="audio/mpeg">
+    </audio>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi atque, vel nostrum pariatur sit voluptatibus modi repellat quia dicta dolor est eaque eum incidunt quam dolorum repudiandae aliquam accusantium?</p>
+    
+    <a href="index12.html">Voltar para a principal</a>
+
+</body>
+</html>
