@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Esse é o meu primeiro site!">
+    <meta name="keywords" content="programacao, html, css, javascript">
+    <meta name="author" content="Vitor Augusto">
+    <title>Meu primeiro site!</title>
+</head>
+<body>
+
+   <h2>Tabelas</h2>
+
+    <table width="100%" border="1" style="text-align: center;">
+        <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+            <th>Peso</th>
+            <th>Linguagem</th>
+        </tr>
+        <tr>
+            <td>Vitor</td>
+            <td>20</td>
+            <td>100 kg</td>
+            <td>HTML</td>
+        </tr>   
+        <tr>
+            <td>Lucas</td>
+            <td>39</td>
+            <td>95 kg</td>
+            <td>CSS</td>
+        </tr>
+    </table>
+
+    
+    
+</body>
+</html>
